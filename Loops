@@ -19,7 +19,7 @@ using System;
 		{
 			
 			int Number;
-			Number = Console.Read();
+			Number = Convert.ToInt32(Console.Read());
 			Print(Number);using System;
 
 	class Loops
@@ -63,7 +63,7 @@ using System;
 		{
 			
 			int Number;
-			Number = Console.Read();
+			Number = Convert.ToInt32(Console.Read());
 			Print(Number);
 		}
 	}
@@ -72,4 +72,27 @@ using System;
 	
 	// do while loop
 	
+	using System;
+
+	class Loops
+	{
+		static void Print(int x)
+		{ 
+			int i= 1;
+				do
+				{
+			 	 	Console.WriteLine(i*x);
+			 	 	i++;
+				} while(i<=10);
+		}
 	
+		static void Main(string[] args)
+		{
+			
+			int Number;
+			Number = Convert.ToInt32(Console.Read());
+			Print(Number);
+		}
+	}
+		}
+	}
