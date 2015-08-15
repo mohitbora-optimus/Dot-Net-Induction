@@ -1,0 +1,79 @@
+//  if else
+
+
+using System;
+
+	class Condition
+	{
+		static void Print(int x)
+		{ 
+			if(x % 5 == 0)
+			  Console.Write("Yes it is multiple of five");
+			else
+			  Console.Write("NO It is not a multiple of five");
+			
+		}
+	
+		static void Main(string[] args)
+		{
+			
+			int Number;
+			Number = Convert.ToInt32(Console.ReadLine());
+			Print(Number);
+		}
+	}
+	
+	// Switch Statement
+	
+	using System;
+
+	class Condition
+	{
+		static void Print(int x)
+		{ 
+			switch(x)
+			{
+				case 1: Console.WriteLine("one");
+						break;
+				case 2: Console.WriteLine("Two");
+						break;
+				case 3: Console.WriteLine("three");
+						break;
+				default : Console.WriteLine("other than one two three");
+						break;
+			}
+			
+		}
+	
+		static void Main(string[] args)
+		{
+			
+			int Number;
+			Number = Convert.ToInt32(Console.ReadLine());
+			Print(Number);
+		}
+	}
+	
+	//  ternary operator
+	
+	using System;
+
+	class Condition
+	{
+		static int Print(int x)
+		{ 
+			return ( x%5 == 0)? 1: 0; 
+		}
+	
+		static void Main(string[] args)
+		{
+			
+			int Number;
+			Number = Convert.ToInt32(Console.ReadLine());
+			
+			if(Print(Number) == 1)
+				Console.WriteLine("it is multiple of five");
+			else
+				Console.WriteLine("it is not multiple of five");
+		}
+	}
