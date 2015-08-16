@@ -1,0 +1,19 @@
+using System;
+using System.Text;
+
+public class Test
+{
+	public static void Main()
+	{
+		StringBuilder	returnNumber	=	new	StringBuilder();
+		
+		for( int i = 0 ; i<2 ; i++ )
+		{
+			string accept;
+			accept	=	Console.ReadLine();
+			returnNumber.Append(i.ToString()).Append(" ").AppendLine(accept);
+		}
+		 
+		Console.WriteLine(returnNumber);  
+	}
+}
