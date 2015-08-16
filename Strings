@@ -1,0 +1,30 @@
+using System;
+
+public class Test
+{
+	public static void Main()
+	{
+		string 	FirstName, LastName;
+		FirstName = "Agent";
+		LastName = "James";
+	
+		string fullname = FirstName + " " + LastName;               // Concatenation
+	
+		string fname	= String.Concat(FirstName," ", LastName);     // Concatenation
+		
+		Console.WriteLine(fullname);
+		Console.WriteLine(fname);
+		
+		Console.WriteLine(fname.Contains(FirstName));             // 	existiance of a string in another
+		
+		Console.WriteLine(String.Compare(FirstName, LastName));  	// comapring one string with another
+		
+		Console.WriteLine(FirstName.Equals(FirstName));         // similarity b/w strings
+		
+		Console.WriteLine(FirstName.ToUpper());                //	changing case to upper
+	
+		Console.WriteLine(fullname.ToLower());                // cahnging case to lower
+		
+		Console.WriteLine(FirstName.Substring(2));            //  finding substring
+	}
+}
