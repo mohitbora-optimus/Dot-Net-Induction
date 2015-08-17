@@ -1,0 +1,6 @@
+C:\.net induction\Dot-Net-Induction\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\.net induction\Dot-Net-Induction\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\.net induction\Dot-Net-Induction\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\.net induction\Dot-Net-Induction\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\.net induction\Dot-Net-Induction\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\.net induction\Dot-Net-Induction\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

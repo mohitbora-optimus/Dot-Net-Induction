@@ -1,0 +1,5 @@
+C:\.net induction\Dot-Net-Induction\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\.net induction\Dot-Net-Induction\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\.net induction\Dot-Net-Induction\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\.net induction\Dot-Net-Induction\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\.net induction\Dot-Net-Induction\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
