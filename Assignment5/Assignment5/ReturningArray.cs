@@ -12,8 +12,11 @@ class ReturningArray
     public static void Main(String[] args)
     {
         ReturningArray p = new ReturningArray();
-        foreach (string names in p.GetStringArray())
-            Console.WriteLine(names);
+
+        string[] a = p.GetStringArray();
+        
+        for( int i=0; i<a.Length; i++)
+            Console.WriteLine(a[i]);
         Console.ReadKey();
     }
 }
