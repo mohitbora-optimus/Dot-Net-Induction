@@ -1,0 +1,6 @@
+ Drive C:\ 
+ Drive type Fixed 
+ Volume Label 
+ File System NTFS 
+ Available space 16 GB 
+ Total Space 47 GB 
