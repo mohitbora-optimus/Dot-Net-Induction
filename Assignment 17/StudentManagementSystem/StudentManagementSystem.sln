@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementInterface", "StudentManagementSystem\StudentManagementInterface.csproj", "{00CE9DE5-78F1-4A63-8612-867862E7FB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "StudentClass\Student.csproj", "{DD370313-6871-4170-B66B-2AD473C3526C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataHandler", "StudentDataHandler\StudentDataHandler.csproj", "{1F0961C5-9132-474C-8608-E25878FE3E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CE9DE5-78F1-4A63-8612-867862E7FB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CE9DE5-78F1-4A63-8612-867862E7FB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CE9DE5-78F1-4A63-8612-867862E7FB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CE9DE5-78F1-4A63-8612-867862E7FB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD370313-6871-4170-B66B-2AD473C3526C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD370313-6871-4170-B66B-2AD473C3526C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD370313-6871-4170-B66B-2AD473C3526C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD370313-6871-4170-B66B-2AD473C3526C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0961C5-9132-474C-8608-E25878FE3E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0961C5-9132-474C-8608-E25878FE3E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0961C5-9132-474C-8608-E25878FE3E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0961C5-9132-474C-8608-E25878FE3E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
