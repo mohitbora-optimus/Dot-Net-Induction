@@ -1,5 +1,0 @@
-C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder (2)\Assignment  23\Assignment  23\obj\Debug\Assignment  23.csprojResolveAssemblyReference.cache
-C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder (2)\Assignment  23\Assignment  23\bin\Assignment  23.dll
-C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder (2)\Assignment  23\Assignment  23\bin\Assignment  23.pdb
-C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder (2)\Assignment  23\Assignment  23\obj\Debug\Assignment  23.dll
-C:\Users\optimus150.OPTIMUSDOM\Desktop\New folder (2)\Assignment  23\Assignment  23\obj\Debug\Assignment  23.pdb
