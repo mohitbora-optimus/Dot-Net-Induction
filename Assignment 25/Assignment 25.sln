@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 25", "Assignment 25\Assignment 25.csproj", "{0471EA8D-4B28-421A-9C15-DDD49EABBC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriterClass", "WriterClass\WriterClass.csproj", "{4F24D3F3-76AA-4297-803A-733C00565090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0471EA8D-4B28-421A-9C15-DDD49EABBC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0471EA8D-4B28-421A-9C15-DDD49EABBC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0471EA8D-4B28-421A-9C15-DDD49EABBC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0471EA8D-4B28-421A-9C15-DDD49EABBC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F24D3F3-76AA-4297-803A-733C00565090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F24D3F3-76AA-4297-803A-733C00565090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F24D3F3-76AA-4297-803A-733C00565090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F24D3F3-76AA-4297-803A-733C00565090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
