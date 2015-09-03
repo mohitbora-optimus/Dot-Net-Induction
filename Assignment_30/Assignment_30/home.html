@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <link href="CssStyle.css" rel="StyleSheet"  />
+   
+    <style type="text/css">
+        #btnSubmit {
+            width: 123px;
+        }
+    </style>
+
+   <script>
+       function CheckOption1() {
+           document.location.href =" WrongAnswer.html";
+       }
+
+       function CheckOption2() {
+           document.location.href = " WrongAnswer.html";
+       }
+
+       function CheckOption3() {
+           document.location.href = " WrongAnswer.html";
+       }
+
+       function CheckOption4() {
+           document.location.href ="RightAnswer.html";
+       }
+   </script>
+
+
+</head>
+<body>
+   
+    <h5 ><b>Multiple Choice Question </b></h5>    
+    <h6 style=" text-indent:5px"> <i> Select the appropriate option </i> </h6>  
+   <div>     <label> Question ? </label>
+       </div>
+    <div>
+    <label id="lblOption1" style="text-decoration:none; text-align:center"  onclick="CheckOption1()" class="Options" > 
+        <input type="checkbox" class="radio" /> 1. Option 1
+    </label>
+   </div> 
+    
+   <div>
+    <label  id="lblOption2" style="text-decoration:none; text-align:center" onclick="CheckOption2()" class="Options">
+         <input type="checkbox"   /> 2. Option 2&nbsp;
+    </label>
+  </div>
+   
+   <div>
+    <label  id="lblOption3" style="text-decoration:none; text-align:center" onclick="CheckOption3()" class="Options"> 
+         <input type="checkbox"  name="option"/> 3.Opyion 3&nbsp;
+    </label>
+   </div>
+   
+  <div>
+    <label  id="lblOption4" style="text-decoration:none; text-align:center" onclick="CheckOption4()" class="Options"> 
+         <input type="checkbox"  name="option"/>
+                 4.Option 4        
+    </label>
+    </div>
+   
+    </body>
+</html>

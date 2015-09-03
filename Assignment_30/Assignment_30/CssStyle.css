@@ -1,0 +1,49 @@
+﻿
+P {
+    color: black;
+    font-size: larger;
+    text-align: center;
+    width: 145px;
+    height: 56px;
+    margin-left: 1px;
+}
+
+h6 {color : darkblue;
+    text-align:center;
+    font-size:larger;
+}
+
+label:hover, label:active, input:hover+label, input:active+label {
+    background-color:lightsteelblue;
+    text-align = centre;
+}
+
+div {
+    text-align:center;
+    padding:2px;
+    border:solid 2px;
+    margin:5px auto;
+    width:200px;  
+}
+
+.Options {
+    text-align:center;
+    color: black;
+    background-color: lightblue;
+}
+
+.* {
+text-align : center;
+background-color: blue;
+}
+
+
+a:hover {
+      background-color:lightsteel,0.49);
+      width: 50%;
+    padding: 1px;
+    border: 1px solid  black;
+   margin: 2px;
+    text-align: center;
+    align-content : center;
+}
