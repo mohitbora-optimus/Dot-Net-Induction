@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Ajay</Name>
+    <RollNo>55</RollNo>
+    <TotalMarks>50</TotalMarks>
+  </Student>
+  <Student>
+    <Name>Vijay</Name>
+    <RollNo>56</RollNo>
+    <TotalMarks>78</TotalMarks>
+  </Student>
+  <Student>
+    <Name>Vikram</Name>
+    <RollNo>57</RollNo>
+    <TotalMarks>95</TotalMarks>
+  </Student>
+</ArrayOfStudent><?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Ajay</Name>
+    <RollNo>55</RollNo>
+    <TotalMarks>50</TotalMarks>
+  </Student>
+  <Student>
+    <Name>Vijay</Name>
+    <RollNo>56</RollNo>
+    <TotalMarks>78</TotalMarks>
+  </Student>
+  <Student>
+    <Name>Vikram</Name>
+    <RollNo>57</RollNo>
+    <TotalMarks>95</TotalMarks>
+  </Student>
+</ArrayOfStudent><?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Ajay</Name>
+    <RollNo>55</RollNo>
+    <TotalMarks>50</TotalMarks>
+  </Student>
+  <Student>
+    <Name>Vijay</Name>
+    <RollNo>56</RollNo>
+    <TotalMarks>78</TotalMarks>
+  </Student>
+  <Student>
+    <Name>Vikram</Name>
+    <RollNo>57</RollNo>
+    <TotalMarks>95</TotalMarks>
+  </Student>
+</ArrayOfStudent>
